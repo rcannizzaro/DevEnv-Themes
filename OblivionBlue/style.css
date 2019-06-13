@@ -134,7 +134,6 @@ div#modalbg {background-color: #181818;}
 div#List {margin-right:6px;border-top: 1px solid #333; border-right: 1px solid #070707; border-left: 1px solid #1b1b1b; border-bottom: 1px solid #000; background-color: #181818;}
 div#FileList, div#TrackerList, div#PeerList, div#Speed {background-color: #181818}
 
-div#stg { background-color: #222222; box-shadow: 10px 10px 5px #888;}
 
 
 .lm li {background: transparent url(./images/bul.gif) no-repeat scroll left center}
@@ -168,9 +167,7 @@ div#yesnoDlg div.dlg-header {background: #181818 url(./images/dlg-toolbars.gif) 
 div#stg-header {background: #181818 url(./images/dlg-toolbars.gif) no-repeat 0px -72px; border-bottom: 1px solid #333333;text-shadow:0px -1px 0px #000;}
 div#stg .lm {background-color: #181818; border: 1px solid #333333}
 div#dlgHelp-header,div#dlgHelp div.dlg-header {background: #181818 url(./images/dlg-toolbars.gif) no-repeat 0px -96px;text-shadow:0px -1px 0px #000;}
-div#dlgHelp {background-color: #222222;box-shadow: 10px 10px 5px #888;}
 
-div#tadd {background-color: #222222; margin:5px;box-shadow: 10px 10px 5px #888;}
 div#tadd-header {background: #181818 url(./images/dlg-toolbars.gif) no-repeat 0px 0px; border-bottom: 1px solid #333333;text-shadow:0px -1px 0px #000;}
 
 
