@@ -146,6 +146,7 @@ div#FileList, div#TrackerList, div#PeerList, div#Speed {background-color: #18181
 .lm li div.toggle {background: transparent url(./images/exp.gif) no-repeat scroll center center}
 .lm li a {color: #888888}
 .lm li a.focus {background-color: #000000; color: #178FD1}
+.lm li a:hover {color: #ffffff}
 .stg_con {background-color: #181818}
 * > fieldset {border: 1px solid #333333}
 input.disabled {background-color: #181818; color: #333333; border: 1px solid #333333}
