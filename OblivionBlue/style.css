@@ -1,5 +1,9 @@
 html, body {font-family: "Lucida Sans Unicode", "Lucida Grande", Tahoma, Arial, Helvetica, sans-serif;background-color: #000; color: #ffffff;scrollbar-base-color:#181818; text-shadow:0px -1px 0px #000;}
 
+/*
+Hex for the blue colour used in 'Oblivion Blue' theme is #178FD1
+*/
+
 div#preload {width: 0px; height: 0px; display: none; background-image: url(./images/menus.png);background-image: url(./images/toolbar.png); background-image: url(./images/status_icons.png);  background-image: url(./images/r_bg.gif); background-image: url(./images/asc.gif); background-image: url(./images/desc.gif); background-image: url(./images/pnl_open.gif); background-image: url(./images/pnl_close.gif);background-image: url(./images/headers.png);}
 
 
@@ -141,7 +145,7 @@ div#FileList, div#TrackerList, div#PeerList, div#Speed {background-color: #18181
 .lm li.last {background: transparent url(./images/bul_l.gif) no-repeat scroll left top}
 .lm li div.toggle {background: transparent url(./images/exp.gif) no-repeat scroll center center}
 .lm li a {color: #888888}
-.lm li a.focus {background-color: #333333}
+.lm li a.focus {background-color: #000000; color: #178FD1}
 .stg_con {background-color: #181818}
 * > fieldset {border: 1px solid #333333}
 input.disabled {background-color: #181818; color: #333333; border: 1px solid #333333}
